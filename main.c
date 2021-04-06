@@ -4,7 +4,7 @@ main()
 big3();
 fact();
 oddevn();
-palindrome();
+
 reverse();
 sort();
 }
