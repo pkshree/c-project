@@ -1,6 +1,6 @@
 
 // Function to swap elements 
-void swap(int *a, int *b) 
+void sort(int *a, int *b) 
 { 
 int temp = *a; 
 *a = *b; 
