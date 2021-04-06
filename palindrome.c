@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-void palindrome () {
+void palindrome() {
     int n, reversedN = 0, remainder, originalN;
     printf("Enter an integer: ");
     scanf("%d", &n);
