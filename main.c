@@ -4,8 +4,6 @@ main()
 big3();
 fact();
 oddevn();
-
 reverse();
-sort();
 }
 
