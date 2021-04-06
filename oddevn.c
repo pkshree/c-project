@@ -12,3 +12,4 @@ void oddevn() {
         printf("%d is odd.", num);
     
     return 0;
+}
