@@ -6,7 +6,7 @@ pipeline{
 	sh '''
 	#!/bin/bash
 	echo "check 1"
-cd /var/lib/jenkins/workspace/c-job/
+cd /var/lib/jenkins/workspace/pipelinejobc-2/
 make
 '''
 }
