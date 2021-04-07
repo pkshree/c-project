@@ -6,7 +6,7 @@ pipeline{
 	sh '''
 	#!/bin/bash
 	echo "check 1"
-cd /workspace/pipelinejobc-2/
+cd /home/ec2-user/workspace/pipelinejobc-2/
 make
 '''
 }
